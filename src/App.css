@@ -1,0 +1,28 @@
+.bordered {
+  border: 1px solid black;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+td {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.text-red{
+  color: red;
+}
